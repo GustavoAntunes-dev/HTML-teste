@@ -3,7 +3,7 @@ var speed = 120;
 
 var str = new Array(1);
 str[0] = "ola mundo!";
-str[1] = "i love HTML!!!";
+str[1] = "i love JAVA!!!";
 
 window.onload = function() 
 {window.setInterval('ParseText()', speed);}
